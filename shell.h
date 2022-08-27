@@ -69,7 +69,7 @@ typedef struct liststr
  *@status: the return status of the last exec'd command
  *@cmd_buf: address of pointer to cmd_buf, on if chaining
  *@cmd_buf_type: CMD_type ||, &&, ;
- *@readfd: the fd from which to read line input
+ *@readfd: The fd from which to read line input
  *@histcount: the history line number count
  */
 typedef struct passinfo

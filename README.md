@@ -1,4 +1,4 @@
-# ALX Simple Shell Team Project
+# ALX Simple Shell Team Project by KOLAWOLE OLADEJO AND NICHOLAS DRAGUDI
 
 > This is an ALX collaboration project on Shell. We were tasked to create a simple shell that mimics the Bash shell. Our shell shall be called **hsh**
 
@@ -158,7 +158,7 @@ $ echo "echo $?" | ./hsh
 ```
 
 #### $$
-The second `$` is substitued with the current process ID.
+The second `$` is substituted with the current process ID.
 
 Example:
 ```
@@ -316,20 +316,3 @@ $
 * Handling dynamic memory allocation in a large program
 * Pair programming and team work
 * Building a test suite to check our own code
-
-
-## Authors ##
-
-👤 **OBED EHONEAH**
-
-- GitHub: [@ehoneahobed](https://github.com/ehoneahobed)
-- Twitter: [@ehoneahobed](https://twitter.com/ehoneahobed)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/ehoneahobed)
-- Blog: [Personal Blog](https://blog.ehoneahobed.com)
-
-👤 **JUSTICE MENSAH BLAY MEWUBE**
-
-- GitHub: [@JUSTICEMENSAH-ALX](https://github.com/JUSTICEMENSAH-ALX)
-- LinkedIn: [LinkedIn](linkedin.com/in/mensah-blay-justice)
-- Twitter: [@JUSTICEMBLAY](https://twitter.com/justicemensahblaymewube)
-
