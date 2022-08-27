@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * hsh - main shell loop
+ * hsh - Main shell loop
  * @info: the parameter & return info struct
  * @av: the argument vector from main()
  *

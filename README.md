@@ -158,7 +158,7 @@ $ echo "echo $?" | ./hsh
 ```
 
 #### $$
-The second `$` is substitued with the current process ID.
+The second `$` is substituted with the current process ID.
 
 Example:
 ```
